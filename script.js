@@ -62,8 +62,8 @@ const account4 = {
     '2022-06-25T18:49:59.371Z',
     '2022-07-26T12:01:20.894Z',
   ],
-  currency: 'EUR',
-  locale: 'pt-PT',
+  currency: 'GBP',
+  locale: 'en-GB',
 };
 
 const accounts = [account1, account2, account3, account4];
